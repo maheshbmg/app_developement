@@ -1,4 +1,4 @@
-Docker Images and Containers
+Docker Images and Containers@BMG@
 -------------------------------
 An image is a collection of bin/lib that are necessary for an application to run.All the docker images are present in the cloud site of docker called hub.docker.com
 
